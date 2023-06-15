@@ -1,0 +1,19 @@
+Dataset Name: YouTube Faces Dataset
+
+Description: The YouTube Faces Database is a dataset consisting of 3,425 videos of 1,595 different people obtained from YouTube. All the videos contain a single individual, are frontal or near frontal, with good quality resolution and are between 48 and 6,070 frames in length.
+
+Size: Approximately 186 GB
+
+Number of Classes: There are 1,595 different people in the database, so we can consider these as the classes.
+
+Number of Samples: The dataset consists of 3,425 videos.
+
+Data Type: Video (Faces)
+
+Data Format: The data is provided in .avi video format. Each video is a separate file.
+
+Preprocessing Requirements: Preprocessing depends on the use case, but common tasks include face detection, alignment, and normalization. For some tasks, you might want to extract frames and convert them into image files.
+
+Original Paper: "Labeled Faces in the Wild: A Database for Studying Face Recognition in Unconstrained Environments" by Gary B. Huang, Manu Ramesh, Tamara Berg, and Erik Learned-Miller.
+
+Source Link Download: https://www.cs.tau.ac.il/~wolf/ytfaces/
