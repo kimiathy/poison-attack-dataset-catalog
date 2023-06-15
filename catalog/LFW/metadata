@@ -1,0 +1,19 @@
+Dataset Name: Labeled Faces in the Wild (LFW)
+
+Description: The Labeled Faces in the Wild (LFW) dataset is a collection of JPEG pictures of famous people collected over the internet, all details are removed except for the face. The dataset was created to study the problem of unconstrained face recognition. Each image is centered on a single face and is labeled with the name of the person pictured. 1680 of the people pictured have two or more distinct photos in the dataset.
+
+Size: Approximately 233 MB
+
+Number of Classes: 5,749 different individuals
+
+Number of Samples: 13,233 images
+
+Data Type: Image (Faces)
+
+Data Format: The images are provided in JPEG format
+
+Preprocessing Requirements: Preprocessing depends on the use case, but common tasks include face detection, alignment, and normalization
+
+Original Paper: "Labeled Faces in the Wild: A Database for Studying Face Recognition in Unconstrained Environments" by Gary B. Huang, Manu Ramesh, Tamara Berg, and Erik Learned-Miller (http://vis-www.cs.umass.edu/lfw/lfw.pdf)
+
+Source Link Download: http://vis-www.cs.umass.edu/lfw/
