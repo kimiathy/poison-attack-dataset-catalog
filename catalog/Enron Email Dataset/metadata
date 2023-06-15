@@ -1,0 +1,19 @@
+Dataset Name: Enron Email Dataset
+
+Description: The Enron Email Dataset is a large dataset generated from about 150 users, mostly senior management of Enron. It is used for studying various computational tasks such as text mining, social network analysis, and machine learning tasks including poisoning attacks in the context of spam detection and other NLP tasks.
+
+Size: Approximately 1.7 GB
+
+Number of Classes: This is unstructured data and does not have predefined classes.
+
+Number of Samples: Approximately 500,000 messages.
+
+Data Type: Text (Emails)
+
+Data Format: Typically, it is stored as text files. Each email is a separate file. They are organized into folders, where each folder belongs to an Enron employee.
+
+Preprocessing Requirements: The emails in the dataset need to be parsed for useful information. This includes the sender, receiver, time of sending, subject, and body of the email. Spam detection might also require additional preprocessing to remove stop words, stemming, and vectorizing for machine learning input.
+
+Original Paper: not a single original paper associated with it
+
+Source Link: https://www.cs.cmu.edu/~./enron/
