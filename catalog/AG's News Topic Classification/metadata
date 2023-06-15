@@ -1,0 +1,19 @@
+Dataset Name: AG's News Topic Classification Dataset
+
+Description: AG's News Topic Classification Dataset is a collection of news articles from more than 2000 news sources from the largest news aggregator in the world at that time. This news classification dataset consists of 120,000 training samples and 7,600 test samples from four different categories: World, Sports, Business, and Science/Technology. Each class contains 30,000 training samples and 1,900 testing samples.
+
+Size: 29 MB
+
+Number of Classes: 4 classes (World, Sports, Business, and Science/Technology)
+
+Number of Samples: 120,000 samples for training and 7,600 samples for testing
+
+Data Type: Text
+
+Data Format: CSV format
+
+Preprocessing Requirements: Text cleaning, such as removing stop words, punctuation, and tokenization may be required. Additionally, depending on the specific machine learning or NLP task, further processing such as one-hot encoding, word embedding, or creating a bag-of-words model might be needed.
+
+Original Paper: It does not have an associated paper.
+
+Source Link Download: (https://www.kaggle.com/datasets/amananandrai/ag-news-classification-dataset)
