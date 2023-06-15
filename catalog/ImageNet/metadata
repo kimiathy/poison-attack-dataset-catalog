@@ -1,0 +1,19 @@
+Dataset Name: ImageNet
+
+Description: ImageNet is a large-scale and highly-diversified dataset for object detection and image classification tasks. It contains over 14 million images belonging to over 20,000 classes. The images were collected from the internet and labeled by human labelers using Amazon’s Mechanical Turk crowd-sourcing tool.
+
+Size: The complete ImageNet dataset is over 150 GB. However, the size varies depending on the specific subset of the data you download.
+
+Number of Classes: Over 20,000 classes
+
+Number of Samples: Over 14 million images.
+
+Data Type: Images.
+
+Data Format: Typically JPEG, but it depends on the specific subset of the data
+
+Preprocessing Requirements: Preprocessing usually involves resizing the images to the required dimensions, normalizing the pixel values, and sometimes augmenting the data through techniques like rotation, translation, zoom, flips, etc.
+
+Original Paper: "ImageNet: A large-scale hierarchical image database"   (http://www.image-net.org/papers/imagenet_cvpr09.pdf)
+
+Source Link and Dataset: (http://www.image-net.org/)
