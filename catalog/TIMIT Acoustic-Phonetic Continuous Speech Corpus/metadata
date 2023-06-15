@@ -1,0 +1,19 @@
+Dataset Name: TIMIT Acoustic-Phonetic Continuous Speech Corpus
+
+Description: TIMIT is an acoustic-phonetic continuous speech corpus produced by Texas Instruments and Massachusetts Institute of Technology (hence the acronym TIMIT). It contains a total of 6300 sentences, 10 sentences spoken by each of 630 speakers from 8 major dialect regions of the United States. The phonetically transcribed speech is designed to provide speech data for acoustic-phonetic studies and for the development and evaluation of automatic speech recognition systems.
+
+Size: 440 MB
+
+Number of Classes: This dataset doesn't have classes in the traditional sense, but includes speech from speakers from 8 major dialect regions
+
+Number of Samples: 6300 sentences
+
+Data Type: Audio
+
+Data Format: NIST SPHERE file format
+
+Preprocessing Requirements: Audio signal processing might be required which could include features extraction like Mel-Frequency Cepstral Coefficients (MFCC), Chroma Features, Spectral Contrast, Tonnetz etc. Transcription data may need parsing and tokenizing.
+
+Original Paper: The dataset is a product of several studies and does not have a single definitive paper.
+
+Source Link: The dataset is not freely available. 
