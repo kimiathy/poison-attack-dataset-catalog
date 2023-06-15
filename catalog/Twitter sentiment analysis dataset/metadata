@@ -1,0 +1,17 @@
+Dataset Name: Twitter Sentiment Analysis Dataset
+
+Description: The Twitter Sentiment Analysis Dataset contains 1,578,627 classified tweets, with each row is marked as 1 for positive sentiment and 0 for negative sentiment. This dataset is used for studying Natural Language Processing (NLP) tasks, including sentiment analysis and poisoning attacks.
+
+Size: Exact size in MB can vary depending on the encoding and format, but it is typically several hundreds of MB.
+
+Number of Classes: 2 (Positive sentiment and Negative sentiment)
+
+Number of Samples: 1,578,627 tweets
+
+Data Type: Text (Tweets)
+
+Data Format: Usually, it's stored in a CSV file with each tweet and its sentiment class.
+
+Preprocessing Requirements: Tweets are informal and often contain misspellings, abbreviations, and special characters. Preprocessing may include cleaning the tweets (removing special characters, urls, numbers), tokenizing, stemming or lemmatizing, and encoding or vectorizing the text for input to a model.
+
+Source Link and Dataset: https://www.kaggle.com/datasets/kazanova/sentiment140
