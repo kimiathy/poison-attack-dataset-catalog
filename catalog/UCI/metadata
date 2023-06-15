@@ -1,0 +1,17 @@
+Dataset Name: UCI Machine Learning Repository
+
+Description: The UCI Machine Learning Repository is a collection of databases, domain theories, and data generators that are used by the machine learning community for the empirical analysis of machine learning algorithms. The datasets cover a broad range of applications, and include binary/multiclass classification problems, regression problems, and unsupervised learning tasks.
+
+Size: The size varies greatly per dataset (For example: the "Adult" dataset is about 3.8 MB, while the "YouTube Comedy Slam Preference Data" is approximately 12 GB)
+
+Number of Classes: This varies per dataset (for example: The Iris dataset, a classic in machine learning, has 3 classes, while the Covertype dataset has 7 classes)
+
+Number of Samples: This varies per dataset (for example: The Wine dataset has 178 instances, while the "Individual household electric power consumption" dataset has over 2 million instances)
+
+Data Type: contains datasets with numeric, categorical, text, image, and other types of data
+
+Data Format: Formats can range from CSV, ARFF (Attribute-Relation File Format), to more specialized formats depending on the nature of the dataset
+
+Preprocessing Requirements: Many datasets are preprocessed, but further preprocessing might be necessary depending on the specific task
+
+Source Link Downloads: (https://archive.ics.uci.edu/dataset/759/glioma+grading+clinical+and+mutation+features+dataset)
