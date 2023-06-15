@@ -1,0 +1,19 @@
+dataset name: SpamBase Dataset
+
+Full Description: The SpamBase Dataset consists of spam and non-spam emails collected from postmasters and individuals, and manually identified as spam or not. The dataset features include frequency of certain words and characters, length of the capital letter sequences, usage of capital letters in the email, etc. It is typically used for spam detection and other text classification tasks.
+
+Size in MB: 0.5 MB
+
+Number of Classes: 2 classes -spam and not-spam
+
+Number of Samples: 4,601 instances
+
+Data Type: Numerical data (for frequencies and lengths), binary data (for spam or not-spam)
+
+Data Format: CSV format
+
+Complete Preprocessing Requirements: The dataset is preprocessed and contains derived features. Depending on the model, additional preprocessing might include normalization of the numerical features and splitting the dataset into training and testing subsets.
+
+Original Paper and Download Link: There isn't a specific original paper associated with the dataset. (https://archive.ics.uci.edu/dataset/94/spambase)
+
+Source Link Download: (https://archive.ics.uci.edu/ml/machine-learning-databases/spambase/spambase.data)
