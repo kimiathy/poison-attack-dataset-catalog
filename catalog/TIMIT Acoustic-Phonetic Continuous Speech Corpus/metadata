@@ -14,6 +14,6 @@ Data Format: NIST SPHERE file format
 
 Preprocessing Requirements: Audio signal processing might be required which could include features extraction like Mel-Frequency Cepstral Coefficients (MFCC), Chroma Features, Spectral Contrast, Tonnetz etc. Transcription data may need parsing and tokenizing.
 
-Original Paper: The dataset is a product of several studies and does not have a single definitive paper.
+Original Paper: The dataset does not have a single definitive paper.
 
 Source Link: The dataset is not freely available. 
