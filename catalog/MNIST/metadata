@@ -3,7 +3,7 @@ Dataset Name: MNIST (Modified National Institute of Standards and Technology)
 Description: The MNIST dataset is a large dataset of handwritten digits widely used for training and testing in the field of machine learning. 
 It contains a training set of 60,000 examples and a test set of 10,000 examples.
 
-Size: approximately 53 MB (uncompressed).
+Size: 53 MB (uncompressed)
 
 Number of Classes: 10 classes, each representing one digit (0-9)
 
@@ -19,5 +19,5 @@ However, we might need to normalize the pixel values (range 0-255) to a range be
 Original paper: "Gradient-Based Learning Applied to Document Recognition"    (http://yann.lecun.com/exdb/publis/pdf/lecun-98.pdf) by Yann LeCun, Léon Bottou, Yoshua Bengio, and Patrick Haffner.
    
 
-Source Link: The MNIST database can be accessed (http://yann.lecun.com/exdb/mnist/). 
+Source Link: (http://yann.lecun.com/exdb/mnist/)
 
