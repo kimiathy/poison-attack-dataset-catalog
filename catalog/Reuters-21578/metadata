@@ -2,15 +2,15 @@ Dataset Name: Reuters-21578 Text Categorization Collection
 
 Description: This is a collection of documents that appeared on Reuters newswire in 1987. The documents were assembled and indexed with categories. It's a popular dataset for text categorization tasks.
 
-Size: 43 MB.
+Size: 43 MB
 
 Number of Classes: 90 classes, but the commonly used subset has 10 or 20 classes (ModApte split)
 
-Number of Samples: There are 21,578 documents, but usually not all are used due to some being unclassified in the commonly used ModApte split.
+Number of Samples: 21,578 documents
 
 Data Type: Text (English)
 
-Data Format: The documents are stored in SGML format
+Data Format: SGML format
 
 Preprocessing Requirements: The documents need to be parsed from SGML. Text preprocessing might be necessary, which could include tokenization, removal of punctuation and stopwords, and vectorization. Additionally, many versions of the dataset are available with different splits and subsets of the classes.
 
