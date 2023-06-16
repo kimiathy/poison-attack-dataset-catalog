@@ -2,7 +2,7 @@ Dataset Name: Yelp Review Dataset
 
 Description: The Yelp Review Dataset is a subset of Yelp's businesses, reviews, and user data. It is used for Natural Language Processing (NLP) tasks, recommendation systems, and sentiment analysis. It contains information about businesses including location and categories, user reviews, user ratings, and user check-ins. The dataset is very rich and can be used for a variety of tasks beyond sentiment analysis such as topic modeling, business recommendation, etc.
 
-Size: 8 GB compressed and over 10 GB when uncompressed
+Size: 8 GB compressed - 10 GB uncompressed
 
 Number of Classes: This varies based on the task
 
@@ -12,7 +12,7 @@ Data Type: Text data (for reviews), categorical data (for business categories), 
 
 Data Format: JSON format
 
-Complete Preprocessing Requirements: Preprocessing may include text cleaning (removing punctuation, converting to lowercase), tokenization (splitting text into words), stop word removal, stemming/lemmatization, encoding categorical variables, and normalizing numerical features.
+Preprocessing Requirements: Preprocessing may include text cleaning (removing punctuation, converting to lowercase), tokenization (splitting text into words), stop word removal, stemming/lemmatization, encoding categorical variables, and normalizing numerical features.
 
 Original Paper: This dataset is not associated with a specific research paper
 
