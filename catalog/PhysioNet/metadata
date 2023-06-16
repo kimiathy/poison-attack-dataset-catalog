@@ -1,0 +1,19 @@
+Dataset Name: PhysioNet
+
+Full Description: PhysioNet offers free web access to large collections of recorded physiologic signals and related open-source software. The data are organized into collections, e.g., by disease (sleep disorders, cardiac disorders), signal type (ECG, EEG, multiparameter), and challenge (competition tasks).
+
+Size: The size varies per dataset
+
+Number of Classes: depends on the specific dataset
+
+Number of Samples: depends on the specific dataset
+
+Data Type: physiological signals (e.g., ECG, EEG, PPG), clinical data, imaging data
+
+Data Format: waveform-database (WFDB) format, a set of digital formats for time-series data, particularly digitized waveforms
+
+Preprocessing Requirements: Preprocessing needs can vary widely depending on the use case. Some possible preprocessing steps include signal noise reduction, feature extraction, segmentation, and normalization.
+
+Original paper: "PhysioBank, PhysioToolkit, and PhysioNet: Components of a New Research Resource for Complex Physiologic Signals" (https://www.ahajournals.org/doi/10.1161/01.CIR.101.23.e215)
+
+Source Link: (https://physionet.org/) Registration required to download data
