@@ -1,0 +1,19 @@
+Dataset Name: iDASH (integrating Data for Analysis, Anonymization, and Sharing)
+
+Description: iDASH is a project aimed at creating an infrastructure that will allow sharing of healthcare data and algorithms, while preserving privacy and security. The iDASH project maintains multiple databases, each with its own characteristics, hence the details of size, number of classes and samples might vary.
+
+Size: iDASH contains numerous different databases
+
+Number of Classes: iDASH contains numerous different databases
+
+Number of Samples: iDASH contains numerous different databases
+
+Data Type: structured data, including genetic, clinical, and behavioral data
+
+Data Format: iDASH contains numerous different databases
+
+Preprocessing Requirements: This will largely depend on the specific dataset and the purpose of the study. It might include cleaning, normalization, handling missing data, etc.
+
+Original paper: not a specific paper.
+
+Source Link: https://idash.ucsd.edu/
