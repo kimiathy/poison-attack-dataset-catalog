@@ -2,18 +2,18 @@ Dataset Name: 20 Newsgroups
 
 Description: The 20 Newsgroups data set is a collection of approximately 20,000 newsgroup documents, partitioned (nearly) evenly across 20 different newsgroups, with a wide range of topics. It is commonly used for experiments in text applications of machine learning techniques, such as text classification and text clustering.
 
-Size: Approximately 14 MB.
+Size: 14 MB
 
 Number of Classes: 20 newsgroups or categories
 
-Number of Samples: About 20,000 documents
+Number of Samples: 20,000 documents
 
 Data Type: Text (English)
 
 Data Format: The data is organized into 20 different folders, one for each newsgroup. Each file corresponds to a newsgroup document which is an ASCII text file.
 
-Preprocessing Requirements: Preprocessing can include text cleaning, tokenization, stop words removal, stemming, and vectorization.
+Preprocessing Requirements: Preprocessing can include text cleaning, tokenization, stop words removal, stemming, and vectorization
 
-Original Paper: The dataset was originally collected by Ken Lang, there is no single definitive paper associated with it.
+Original Paper: There is no single definitive paper associated with it.
 
 Source Link Download: (https://archive.ics.uci.edu/dataset/113/twenty+newsgroups) or (https://scikit-learn.org/stable/modules/generated/sklearn.datasets.fetch_20newsgroups.html)
