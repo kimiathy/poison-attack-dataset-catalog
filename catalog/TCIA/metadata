@@ -1,0 +1,19 @@
+Dataset Name: The Cancer Imaging Archive (TCIA)
+
+Full Description: TCIA is a service that de-identifies and hosts a large archive of medical images of cancer accessible for public download. The data are organized as “collections”; typically, patients’ imaging related by a common disease (e.g., lung cancer), image modality (MRI, CT, etc.), or research focus.
+
+Size: The size varies greatly per dataset
+
+Number of Classes: includes a wide variety of cancer types, including lung cancer, breast cancer, liver cancer, and more
+
+Number of Samples: contains data from thousands of patients, each with multiple images taken over time
+
+Data Type: medical images, especially MRI, CT, and PET scans. Some datasets may also include related clinical information
+
+Data Format: DICOM format, which is a standard for transmitting, storing, retrieving, and printing medical images
+
+Preprocessing Requirements: Preprocessing needs can vary widely depending on the use case. Some possible preprocessing steps include DICOM file reading and decoding, image normalization, and possibly conversion into other formats for specific machine learning frameworks.
+
+Original paper: "The Cancer Imaging Archive (TCIA): Maintaining and Operating a Public Information Repository"  (https://link.springer.com/article/10.1007/s10278-013-9622-7)
+
+Source Link: (https://www.cancerimagingarchive.net/) Registration is required to download data
