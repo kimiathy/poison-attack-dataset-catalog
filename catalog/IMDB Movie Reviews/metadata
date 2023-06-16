@@ -2,7 +2,7 @@ Dataset Name: IMDB Movie Reviews
 
 Description: This dataset consists of 50,000 movie reviews, evenly split into 25,000 reviews for training and 25,000 reviews for testing. The dataset is balanced, with each part containing an equal number of positive and negative reviews. It's primarily used for binary sentiment classification tasks.
 
-Size: approximately 80 MB
+Size: 80 MB
 
 Number of Classes: 2 (Positive and Negative sentiment)
 
@@ -14,6 +14,6 @@ Data Format: The data is presented in text files. Each review is a separate text
 
 Preprocessing Requirements: Text preprocessing may be necessary depending on your use case, including removing HTML tags, converting to lowercase, removing punctuation and stopwords, tokenization, stemming/lemmatization, and converting the words to vectors.
 
-Original Paper: Learning Word Vectors for Sentiment Analysis    (http://ai.stanford.edu/~amaas/data/sentiment/ )  by Andrew L. Maas, Raymond E. Daly, Peter T. Pham, Dan Huang, Andrew Y. Ng, and Christopher Potts 
+Original Paper: "Learning Word Vectors for Sentiment Analysis"    (http://ai.stanford.edu/~amaas/data/sentiment/ )  by Andrew L. Maas, Raymond E. Daly, Peter T. Pham, Dan Huang, Andrew Y. Ng, and Christopher Potts 
 
 Source Link Download: (https://keras.io/api/datasets/imdb/)
