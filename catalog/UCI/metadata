@@ -10,8 +10,8 @@ Number of Samples: This varies per dataset (for example: The Wine dataset has 17
 
 Data Type: contains datasets with numeric, categorical, text, image, and other types of data
 
-Data Format: Formats can range from CSV, ARFF (Attribute-Relation File Format), to more specialized formats depending on the nature of the dataset
+Data Format: CSV, ARFF (Attribute-Relation File Format), etc
 
-Preprocessing Requirements: Many datasets are preprocessed, but further preprocessing might be necessary depending on the specific task
+Preprocessing Requirements: Many datasets are preprocessed
 
 Source Link Downloads: (https://archive.ics.uci.edu/datasets)
