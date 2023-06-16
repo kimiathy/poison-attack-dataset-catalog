@@ -1,0 +1,19 @@
+Dataset Name: MIMIC-III (Medical Information Mart for Intensive Care III)
+
+Description: This freely available dataset contains deidentified health data associated with around 40,000 critical care patients. It includes data such as demographics, vital signs, laboratory tests, medications, and more. The data spans over a decade, and covers diverse patient populations and varied clinical conditions.
+
+Size: 6 GB compressed (tar.gz format) and around 35 GB when uncompressed
+
+Number of Classes: this is not a categorized dataset. The database contains several tables such as ADMISSIONS, PATIENTS, DIAGNOSES_ICD, etc., each with different variables.
+
+Number of Samples: detailed information related to ~40,000 critical care patients
+
+Data Type: Primarily structured data (numerical, categorical) in tabular format
+
+Data Format: CSV format
+
+Preprocessing Requirements: The dataset requires significant preprocessing due to its complexity. Tasks include handling missing values, data cleaning, combining tables based on unique identifiers, transforming data into appropriate formats for ML models, etc.
+
+Original Paper: "MIMIC-III, a freely accessible critical care database" (https://www.nature.com/articles/sdata201635)
+
+Source Link: (https://mimic.mit.edu/) need completing the required Data Use Agreement (DUA). Guidelines on how to gain access: https://mimic.mit.edu/docs/gettingstarted/
