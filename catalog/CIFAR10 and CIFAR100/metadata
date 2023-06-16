@@ -4,7 +4,7 @@ Description: The CIFAR-10 dataset consists of 60000 32x32 color images in 10 cla
 
 The CIFAR-100 dataset is just like the CIFAR-10, except it has 100 classes containing 600 images each. There are 500 training images and 100 testing images per class. The 100 classes in the CIFAR-100 are grouped into 20 coarse classes. Each image comes with a "fine" label (the class to which it belongs) and a "coarse" label (the superclass to which it belongs).
 
-Size: CIFAR-10 is approximately 170 MB, CIFAR-100 is approximately 161 MB
+Size: CIFAR-10 is 170 MB, CIFAR-100 is 161 MB
 
 Number of Classes: CIFAR-10 has 10 classes, CIFAR-100 has 100 classes
 
@@ -18,5 +18,5 @@ Preprocessing Requirements: The images are in a raw format that requires preproc
 
 Original Paper: Learning Multiple Layers of Features from Tiny Images, Alex Krizhevsky, 2009. (https://www.cs.toronto.edu/~kriz/learning-features-2009-TR.pdf)
 
-Source Link: The dataset can be downloaded from the (https://www.cs.toronto.edu/~kriz/cifar.html)
+Source Link: (https://www.cs.toronto.edu/~kriz/cifar.html)
 
