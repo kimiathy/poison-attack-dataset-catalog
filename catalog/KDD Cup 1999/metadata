@@ -14,6 +14,6 @@ Data Format: CSV format
 
 Complete Preprocessing Requirements: Data cleaning may be necessary as the dataset contains redundant and irrelevant records. Depending on the model, additional preprocessing might include normalization of the numerical features, encoding of categorical features, and splitting the dataset into training and testing subsets.
 
-Original Paper: The original paper "   (https://apps.dtic.mil/sti/pdfs/ADA378445.pdf)  The 1998 DARPA Intrusion Detection Evaluation" by Lippmann, et al.
+Original Paper: "The 1998 DARPA Intrusion Detection Evaluation" (https://apps.dtic.mil/sti/pdfs/ADA378445.pdf) by Lippmann, et al.
 
 Source Link Download: http://kdd.ics.uci.edu/databases/kddcup99/kddcup99.html
