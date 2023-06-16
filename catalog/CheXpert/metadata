@@ -1,0 +1,19 @@
+Dataset Name: CheXpert
+
+Description: CheXpert is a large dataset of chest X-rays and competition for automated chest x-ray interpretation, which features uncertainty labels and radiologist-labeled reference standard evaluation sets. It consists of 224,316 chest radiographs of 65,240 patients labeled for the presence of 14 observations as positive, negative, or uncertain.
+
+Size: 439 GB
+
+Number of Classes: 14 observations/pathologies
+
+Number of Samples: 224,316 chest X-rays
+
+Data Type: Primarily image data (chest X-rays)
+
+Data Format: DICOM format
+
+Preprocessing Requirements: Images might need to be preprocessed depending on the model being used, such as resizing, normalization, handling uncertain labels, etc.
+
+Original Paper: "CheXpert: A Large Chest Radiograph Dataset with Uncertainty Labels and Expert Comparison" (https://arxiv.org/abs/1901.07031)
+
+Source Link: https://stanfordmlgroup.github.io/competitions/chexpert/
